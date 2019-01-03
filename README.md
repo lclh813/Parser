@@ -7,8 +7,8 @@ It is possible that GitHub fails to display Jupyter Notebooks. Should such circu
 ## Part 2. Data
 > ***Main Page*** http://www.stockq.org/
 >> ***Subpage for Commodity*** http://www.stockq.org/market/commodity.php
->>> 
-    <td align="left" nowrap="">
+>>> ***<***td align="left" nowrap=""***>***
+    
        <a href="/commodity/COMMGOLD.php">黃金</a>
     </td>
 
@@ -22,9 +22,6 @@ It is possible that GitHub fails to display Jupyter Notebooks. Should such circu
 <td align="center">1250.10</td>
 <td align="center"><span class="changeup">0.30</span>%</td>
 </tr>
-
-
-
 
 ## Part 3. Outline
 
