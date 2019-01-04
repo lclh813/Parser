@@ -6,7 +6,7 @@ It is possible that GitHub fails to display Jupyter Notebooks. Should such circu
 
 ## Part 2. Data
 <br>
-<div align=center><img src="https://github.com/lclh813/Parser/blob/master/Pic/2_Data.png" width="600" height="400" //></div>
+<div align=center><img src="https://github.com/lclh813/Parser/blob/master/2_Data.png"/></div>
 <br>
 
 ## Part 3. Outline
