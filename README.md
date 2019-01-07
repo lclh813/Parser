@@ -7,7 +7,7 @@ To extract historical prices of each commodity listed on the website http://www.
 
 ## Part 2. Data
 <br>
-<div align=center><img src="https://github.com/lclh813/Parser/blob/master/2_Data.png"/></div>
+<div align=center><img src="https://github.com/lclh813/Parser/blob/master/Pic/2_Data.png"/></div>
 <br>
 
 ## Part 3. Outline
