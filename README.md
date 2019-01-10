@@ -3,7 +3,7 @@
 It is possible that GitHub fails to display Jupyter Notebooks. Should such circumstances arise, please refer to ***Part 4. Steps*** listed below for code samples.
 
 ## Part 1. Objective
-To extract historical prices of each commodity listed on the website http://www.stockq.org/ and integrate the price data of each commodity by plotting a grid of line charts containing multiple data objects.
+Extract historical prices of each commodity listed on the website http://www.stockq.org/ and integrate the price data of each commodity by plotting a grid of line charts.
 
 ## Part 2. Data
 <br>
@@ -11,6 +11,17 @@ To extract historical prices of each commodity listed on the website http://www.
 <br>
 
 ## Part 3. Outline
+### 3.1. Web Scraping
+- Extract data from web pages.
+- Tool: Python ```requests``` ```BeautifulSoup```
+
+### 3.2. Reshape Dataframe
+- Since prices differ enormously from one commodity to another, it is easier to make a comparison within a group of datasets having similar means than to make an overall assessment.   
+- Tool: Python ```concat``` ```itertools``` 
+
+### 3.3. Data Visualization
+- Plot a grid of line charts and default legend items as muted to better focus on the commodity that is of interest.
+- Tool: Python ```Bokeh```
 
 ## Part 4. Steps
 > [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/6_CompleteCode.ipynb)
