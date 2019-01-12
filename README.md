@@ -20,7 +20,7 @@ Extract historical prices of each commodity listed on the website http://www.sto
 - Tool: Python ```concat``` ```itertools``` 
 
 ### 3.3. Data Visualization
-- Plot a grid of line charts and default legend items as muted to better focus on the commodity that is of interest.
+- Plot a grid of interactive line charts so that clicking on the legend items will mute the corresponding glyph in the charts.
 - Tool: Python ```Bokeh```
 
 ## Part 4. Steps
