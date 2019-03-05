@@ -24,11 +24,11 @@ Extract historical prices of each commodity listed on the website http://www.sto
 - Tool: Python ```Bokeh```
 
 ## Part 4. Steps
-> [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/6_CompleteCode.ipynb)
-#### [Step 1. Import Library](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/1_ImportLibrary.ipynb)
-#### [Step 2. Web Scraping](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/2_WebScraping.ipynb)
-#### [Step 3. Clean Dataset](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/3_CleanDataset.ipynb)
-#### [Step 4. Reshape Dataframe](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/4_ReshapeDataframe.ipynb)
+> [***Complete Code***](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/6_CompleteCode.ipynb)
+#### [Step 1. Import Library](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/1_ImportLibrary.ipynb)
+#### [Step 2. Web Scraping](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/2_WebScraping.ipynb)
+#### [Step 3. Clean Dataset](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/3_CleanDataset.ipynb)
+#### [Step 4. Reshape Dataframe](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/4_ReshapeDataframe.ipynb)
 #### Step 5. Data Visualization
-[5.1. Interactive Line Chart: Code](https://nbviewer.jupyter.org/github/lclh813/Parser/blob/master/5_DataVisualization.ipynb)  
+[5.1. Interactive Line Chart: Code](https://nbviewer.jupyter.org/github/lclh813/Web_Scraping/blob/master/5_DataVisualization.ipynb)  
 [5.2. Interactive Line Chart: Chart](https://lclh813.github.io/Web_Scraping/5_InteractiveLineChart.html)
